@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2965-find-missing-and-repeated-values](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
