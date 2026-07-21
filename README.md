@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0136-single-number) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0079-word-search) |
 | [2965-find-missing-and-repeated-values](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -69,8 +71,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0079-word-search) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
