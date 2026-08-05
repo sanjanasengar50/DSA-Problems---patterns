@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0567-permutation-in-string) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0242-valid-anagram) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0567-permutation-in-string) |
 ## Backtracking
