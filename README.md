@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0054-spiral-matrix) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0033-search-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0493-reverse-pairs) |
