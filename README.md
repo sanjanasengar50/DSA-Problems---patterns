@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/2965-find-missing-and-repeated-values) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Simulation
 |  |
