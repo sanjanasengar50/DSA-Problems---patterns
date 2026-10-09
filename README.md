@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0053-maximum-subarray) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0242-valid-anagram) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0079-word-search) |
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0040-combination-sum-ii) |
 | [0079-word-search](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0131-palindrome-partitioning) |
@@ -227,4 +231,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0175-combine-two-tables) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
