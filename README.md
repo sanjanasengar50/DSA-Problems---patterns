@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0912-sort-an-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0912-sort-an-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2965-find-missing-and-repeated-values](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0912-sort-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0912-sort-an-array) |
 ## Greedy
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0239-sliding-window-maximum) |
+| [0912-sort-an-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0912-sort-an-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -239,4 +244,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0037-sudoku-solver) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sanjanasengar50/DSA-Problems---patterns/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
